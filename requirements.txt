@@ -1,0 +1,8 @@
+pandas
+PySastrawi
+torch
+transformers
+regex
+fastapi
+uvicorn
+pydantic
